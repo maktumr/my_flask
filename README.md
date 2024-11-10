@@ -9,5 +9,5 @@
         pip install Flask
 4. add app.py pthon file to submit the form
 5. run app.py python application
-6. 
+ 
    
