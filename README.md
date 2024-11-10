@@ -1,7 +1,7 @@
 # my_flask to create web application using flask web application, follw below steps
 
 1. Create a folder "my_flask"
-2. create python environmaent
+2. create python environment
         pip install virtualenv
         virtualenv env
         env\Scripts\activate
