@@ -1,7 +1,7 @@
 # my_flask to create web application using flask web application, follw below steps
 
 1. Create a folder "my_flask"
-2. create python envoironmaent
+2. create python environmaent
         pip install virtualenv
         virtualenv env
         env\Scripts\activate
@@ -9,5 +9,6 @@
         pip install Flask
 4. add app.py pthon file to submit the form
 5. run app.py python application
+6. run the application on http://127.0.0.1:5000
  
    
