@@ -8,7 +8,8 @@
 3. install flask
         pip install Flask
 4. add app.py pthon file to submit the form
-5. run app.py python application
-6. run the application on http://127.0.0.1:5000
+5. create contact us form (html form) under 'templates' folder
+6. run app.py python application
+7. run the application on http://127.0.0.1:5000
  
    
